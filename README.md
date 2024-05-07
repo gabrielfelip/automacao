@@ -1,2 +1,2 @@
 # automacao
-Automatização de tarefas como cadastras produtos, selecionar abas e programas com Python
+Automatização de tarefas como cadastrar produtos, selecionar abas e programas com Python
